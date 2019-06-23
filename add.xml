@@ -171,6 +171,15 @@
 	<material_config path="units/mods/weapons/wpn_fps_ass_nam_grip_pts/wpn_fps_ass_nam_pg_a1_cc"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_nam_grip_pts/wpn_fps_ass_nam_pg_a1_cc_thq"/>
 	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_nam_grip_pts/wpn_fps_ass_nam_pg_a2"/>
+	<model  		 path="units/mods/weapons/wpn_fps_ass_nam_grip_pts/wpn_fps_ass_nam_pg_a2"/>
+	<object 		 path="units/mods/weapons/wpn_fps_ass_nam_grip_pts/wpn_fps_ass_nam_pg_a2"/>
+	<unit			 path="units/mods/weapons/wpn_fps_ass_nam_grip_pts/wpn_fps_ass_nam_pg_a2"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_nam_grip_pts/wpn_fps_ass_nam_pg_a2"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_nam_grip_pts/wpn_fps_ass_nam_pg_a2_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_nam_grip_pts/wpn_fps_ass_nam_pg_a2_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_nam_grip_pts/wpn_fps_ass_nam_pg_a2_cc_thq"/>
+	
 	<!-- STOCK PTS -->
 	
 	<texture		 path="units/mods/weapons/wpn_fps_ass_nam_stock_pts/buffer_tube_colt_df"/>
