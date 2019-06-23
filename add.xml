@@ -115,6 +115,19 @@
 	<material_config path="units/mods/weapons/wpn_fps_ass_nam_muzzle_pts/wpn_fps_ass_nam_fh_a1_cc"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_nam_muzzle_pts/wpn_fps_ass_nam_fh_a1_cc_thq"/>
 	
+	<texture		 path="units/mods/weapons/wpn_fps_ass_nam_muzzle_pts/flash_car15_df"/>
+	<texture		 path="units/mods/weapons/wpn_fps_ass_nam_muzzle_pts/flash_car15_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_nam_muzzle_pts/flash_car15_nm"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_nam_muzzle_pts/wpn_fps_ass_nam_fh_car15"/>
+	<model  		 path="units/mods/weapons/wpn_fps_ass_nam_muzzle_pts/wpn_fps_ass_nam_fh_car15"/>
+	<object 		 path="units/mods/weapons/wpn_fps_ass_nam_muzzle_pts/wpn_fps_ass_nam_fh_car15"/>
+	<unit			 path="units/mods/weapons/wpn_fps_ass_nam_muzzle_pts/wpn_fps_ass_nam_fh_car15"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_nam_muzzle_pts/wpn_fps_ass_nam_fh_car15"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_nam_muzzle_pts/wpn_fps_ass_nam_fh_car15_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_nam_muzzle_pts/wpn_fps_ass_nam_fh_car15_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_nam_muzzle_pts/wpn_fps_ass_nam_fh_car15_cc_thq"/>
+	
 	<!-- HANDGUARD PTS -->
 	
 	<texture		 path="units/mods/weapons/wpn_fps_ass_nam_handguard_pts/handguard_car15_df"/>
