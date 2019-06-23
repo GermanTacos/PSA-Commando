@@ -5,7 +5,7 @@ if ( self.nam ) then
 	self:SetupAttachmentPoint("nam", {
 		name = "a_ns", 
         base_a_obj = "a_ns", 
-        position = Vector3( 0, -9, 2 ), -- -16
+        position = Vector3( 0, -16.6, 0.2 ), -- -16
         rotation = Rotation( 0, 0, 0 ) 
 	})
 	self:SetupAttachmentPoint("nam", {
@@ -17,7 +17,7 @@ if ( self.nam ) then
 	self:SetupAttachmentPoint("nam", {
 		name = "a_fl", 
         base_a_obj = "a_fl", 
-        position = Vector3( 0.2, 0, 2.4 ), 
+        position = Vector3( 0.2, -2, 0.5 ), 
         rotation = Rotation( 0, 0, 0 ) 
 	})
 	self:SetupAttachmentPoint("nam", {
@@ -29,7 +29,7 @@ if ( self.nam ) then
 	self:SetupAttachmentPoint("nam", {
 		name = "a_o", 
         base_a_obj = "a_o", 
-        position = Vector3( 0, 0, 0.45 ), 
+        position = Vector3( 0, -2, 0 ), 
         rotation = Rotation( 0, 0, 0 ) 
 	})
 	self:SetupAttachmentPoint("nam", {
