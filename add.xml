@@ -214,6 +214,15 @@
 	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/mag_alum_25_cc"/>
 	<texture 		 path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/mag_alum_25_nm"/>
 	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_20"/>
+	<model  		 path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_20"/>
+	<object 		 path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_20"/>
+	<unit			 path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_20"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_20"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_20_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_20_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_20_cc_thq"/>
+	
 	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_25"/>
 	<model  		 path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_25"/>
 	<object 		 path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_25"/>
@@ -222,6 +231,15 @@
 	<material_config path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_25_thq"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_25_cc"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_25_cc_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_30"/>
+	<model  		 path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_30"/>
+	<object 		 path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_30"/>
+	<unit			 path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_30"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_30"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_30_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_30_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_30_cc_thq"/>
 	
 	<!-- SHARED PTS -->
 	

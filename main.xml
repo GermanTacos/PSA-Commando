@@ -48,6 +48,18 @@
 		<pcs/>
 	</WeaponMod>
 	
+	<WeaponMod id="wpn_fps_ass_psa_nam_m_alum_20" based_on="wpn_fps_m4_uupg_m_std_vanilla"		type="magazine"		  unit="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_20"      texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<override_weapon CLIP_AMMO_MAX="20"/>
+		<stats spread="1" concealment="2"/>
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_ass_psa_nam_m_alum_30" based_on="wpn_fps_m4_uupg_m_std_vanilla"		type="magazine"		  unit="units/mods/weapons/wpn_fps_ass_psa_nam_mag_pts/wpn_fps_ass_psa_nam_m_alum_30"      texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<override_weapon CLIP_AMMO_MAX="30"/>
+		<stats spread="-1" concealment="-3"/>
+		<pcs/>
+	</WeaponMod>
+	
 	<!--<WeaponMod id="wpn_fps_ass_psa_nam_fo_troy"   based_on="wpn_fps_smg_hajk_body_standard" type="iron_front"	  unit="units/mods/weapons/wpn_fps_ass_psa_nam_shared_pts/wpn_fps_ass_psa_nam_fo_troy"	  texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	-->
 	
@@ -121,6 +133,9 @@
 				
 				<value_node value="wpn_fps_ass_psa_nam_fh_car15"/>
 				<value_node value="wpn_fps_ass_psa_nam_pg_a2"/>
+				
+				<value_node value="wpn_fps_ass_psa_nam_m_alum_20"/>
+				<value_node value="wpn_fps_ass_psa_nam_m_alum_30"/>
 				
 				<value_node value="wpn_fps_upg_ns_ass_smg_large"/>
 				<value_node value="wpn_fps_upg_ns_ass_smg_medium"/>
