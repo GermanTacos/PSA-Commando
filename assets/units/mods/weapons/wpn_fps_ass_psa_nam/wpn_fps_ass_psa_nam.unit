@@ -4,9 +4,9 @@
 		<depends_on bnk="soundbanks/weapon_hajk"/>
 	</dependencies>
     <extensions>
-        <extension psa_name="unit_data" class="ScriptUnitData" />
-        <extension psa_name="base" class="NewRaycastWeaponBase" >
-			<var psa_name="psa_name_id" value="psa_nam" />
+        <extension name="unit_data" class="ScriptUnitData" />
+        <extension name="base" class="NewRaycastWeaponBase" >
+			<var name="name_id" value="psa_nam" />
 		</extension>
     </extensions>
 </unit>
