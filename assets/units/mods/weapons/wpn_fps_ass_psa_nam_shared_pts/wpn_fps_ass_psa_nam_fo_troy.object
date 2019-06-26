@@ -1,4 +1,4 @@
-<dypsa_namic_object>
+<dynamic_object>
 	<diesel materials="units/mods/weapons/wpn_fps_ass_psa_nam_shared_pts/wpn_fps_ass_psa_nam_fo_troy" orientation_object="rp_wpn_fps_smg_hajk_body_standard" />
 	<animations>
 		<animation_group psa_name="reload">
@@ -15,4 +15,4 @@
 		<object psa_name="g_bolt" enabled="false" />
 		<object psa_name="g_upper" enabled="true" />
 	</graphics>
-</dypsa_namic_object>
+</dynamic_object>

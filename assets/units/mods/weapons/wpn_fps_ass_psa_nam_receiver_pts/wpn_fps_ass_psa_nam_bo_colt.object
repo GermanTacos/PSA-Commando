@@ -1,4 +1,4 @@
-<dypsa_namic_object>
+<dynamic_object>
 	<diesel materials="units/mods/weapons/wpn_fps_ass_psa_nam_receiver_pts/wpn_fps_ass_psa_nam_bo_colt" orientation_object="rp_wpn_fps_m4_uupg_draghandle" />
 	<animations>
     <animation_group psa_name="reload">
@@ -8,4 +8,4 @@
   <graphics>
         <object  psa_name="g_draghandle" enabled="true" />
   </graphics>
-</dypsa_namic_object>
+</dynamic_object>
