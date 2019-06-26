@@ -11,7 +11,7 @@
 	"bm_menu_handguard"     	    : "Handguard",
 	"bm_menu_handguard_plural"      : "Handguards",
 	
-	"bm_wp_wpn_fps_ass_psa_nam_lr_zdn" : "PSA Shovel-15 Lower Receiver",
-	"bm_wp_wpn_fps_ass_psa_nam_lr_vdg" : "PSA Videogame Firearm Lower Receiver"
+	"bm_wp_wpn_fps_ass_psa_nam_pg_a2" 	 : "A2 Pistol Grip",
+	"bm_wp_wpn_fps_ass_psa_nam_fh_car15" : "CAR-15 Flash Hider"
 	
 }
