@@ -1,8 +1,8 @@
-<table psa_name="PSA Commando" image="guis/psa_nam" color="Color(0.8, 0.2, 0.8)">
+<table name="PSA Commando" image="guis/psa_nam" color="Color(0.8, 0.2, 0.8)">
 
 	<Localization directory="locals" default="english.txt"/>
 	
-<!--<AssetUpdates id="xxxxx" psa_name="asset_updates" folder_psa_name="PSA Commando" version="1.0" provider="modworkshop"/>-->
+<!--<AssetUpdates id="xxxxx" name="asset_updates" folder_name="PSA Commando" version="1.0" provider="modworkshop"/>-->
 
 	<GlobalValue id="psa_nam" color="Color(0.8, 0.2, 0.8)"/>
 
@@ -66,7 +66,7 @@
 			<sounds fire="psa_nam_fire" fire_single="psa_nam_fire" fire_auto="psa_nam_fire" use_fix="true">
 				<reload wp_m16_clip_grab_out="wp_psa_nam_empty" wp_m16_clip_grab_throw="wp_psa_nam_mag_grab_out" wp_m16_clip_take_new="wp_psa_nam_mag_take_new" wp_m16_clip_slide_in="wp_psa_nam_mag_slide_in" wp_m16_clip_in_contact="wp_psa_nam_mag_in_contact" wp_m16_lever_pull_in="wp_psa_nam_lever_pull_in" wp_m16_lever_release="wp_psa_nam_lever_release"/>
 			</sounds>
-			<animations reload_psa_name_id="m16" equip_id="equip_m16" />
+			<animations reload_name_id="m16" equip_id="equip_m16" />
 		</weapon>
 
 		<factory id="wpn_fps_ass_psa_nam" unit="units/mods/weapons/wpn_fps_ass_psa_nam/wpn_fps_ass_psa_nam">
