@@ -2,7 +2,7 @@
 
 	<Weapon unlock_level="25">     <!-- Fuck Overkill v -->
 		<weapon id="psa_nam" based_on="m16" weapon_hold="m4" CLIP_AMMO_MAX="25" NR_CLIPS_MAX="4" tactical_reload="1" texture_bundle_folder="mods" global_value="psa_nam">
-			<stats damage="80" spread="12" spread_moving="18" recoil="10" concealment="22"/>
+			<stats damage="80" spread="16" spread_moving="12" recoil="16" concealment="24"/>
 			<fire_mode_data fire_rate="0.08368200836"/>
 			<use_data selection_index="2"/>
 			<categories>
